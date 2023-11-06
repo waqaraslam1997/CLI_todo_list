@@ -1,0 +1,31 @@
+{
+  "name": "waqar_todo",
+  "version": "1.0.0",
+  "description": "CLI Todo List Application in TypeScript",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "todo_list": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Waqar Aslam",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.11"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waqaraslam1997/CLI_todo_list.git"
+  },
+  "bugs": {
+    "url": "https://github.com/waqaraslam1997/CLI_todo_list/issues"
+  },
+  "homepage": "https://github.com/waqaraslam1997/CLI_todo_list#readme"
+}
